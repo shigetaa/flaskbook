@@ -1,0 +1,5 @@
+{{username}} さま
+
+お問い合わせ有難うございました。
+
+{{description}}
